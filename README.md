@@ -21,7 +21,7 @@ Scripts are provided for both Chrome and Firefox, and can be used to:
 
 git clone https://github.com/taylor2464/download-hyundai-tech-info.git 
 
-cd hyundaitechinfo
+cd download-hyundai-tech-info
 
 ### 2. Set Up Python Environment 
 
